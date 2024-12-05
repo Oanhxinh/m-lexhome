@@ -117,13 +117,14 @@ padding-left: 24rem;
     text-align: end;
 }
 .hack {
-    width: 22rem;
+width: 22rem;
 height: 210rem;
 border-bottom: 1rem solid white;
 border-top: 1rem solid white ;
 border-left: 1rem solid white;
 border-top-left-radius: 8rem; 
 border-bottom-left-radius: 8rem;
+background-color:#0000001A;
 }
 .phone{
     align-items: center;
